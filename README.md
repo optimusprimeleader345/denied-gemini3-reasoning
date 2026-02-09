@@ -1,0 +1,1 @@
+# denied-gemini3-reasoning
